@@ -2,5 +2,5 @@ remote_theme: just-the-docs/just-the-docs
 ##remote_theme: "mmistakes/jekyll-theme-basically-basic@1.4.5"
 title: Anurag Jayaraman
 description: Bookmark this to keep an eye on my project updates!
-
+color_scheme: dark
 ##theme: jekyll-theme-slate
