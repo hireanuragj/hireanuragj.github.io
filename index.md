@@ -1,5 +1,6 @@
 
-## Welcome to GitHub Pages
+## Hi!
+### I am Anurag Jayarman, a technical writer with a goal of simplifying technology communication for everybody.
 <!--- 
 You can use the [editor on GitHub](https://github.com/hireanuragj/hireanuragj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
