@@ -1,6 +1,6 @@
-<!--- 
-## Welcome to GitHub Pages
 
+## Welcome to GitHub Pages
+<!--- 
 You can use the [editor on GitHub](https://github.com/hireanuragj/hireanuragj.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
@@ -36,7 +36,7 @@ Your Pages site will use the layout and styles from the Jekyll theme you have se
 ### Support or Contact
 
 Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
---->
+
 # **Anurag Jayaraman**
 
 hireanuragj@gmail.com • +91-7373546953 • linkedin.com/in/anurag-jayaraman/
@@ -82,3 +82,4 @@ Technical writer with a goal of simplifying technology communication for everybo
 - **Technical Skills:** Agile SDLC; Amazon Web Services; Microsoft Office; XML; HTML/CSS; REST Webservices; Angular; Java; PL/SQL; Linux; IBM uDeploy; ITEC Jenkins; Android; WordPress; Confluence; JIRA.
 
 - **Interests:** PC Gaming; Photography; Science Fiction.
+--->
