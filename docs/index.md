@@ -4,7 +4,7 @@ hireanuragj@gmail.com • +91-7373546953 • linkedin.com/in/anurag-jayaraman/
 
 Technical writer with a goal of simplifying technology communication for everybody. Diversified professional experience with a focus on agile led development in technical communication, product documentation, software development, and cloud engineering backgrounds across cloud, fintech, and B2B organizations.
 
-**WORK EXPERIENCE**
+### **WORK EXPERIENCE**
 
 **Senior Technical Writer**, **Facets.Cloud** 
 (May 2022 – Current)
@@ -25,7 +25,7 @@ Technical writer with a goal of simplifying technology communication for everybo
 - Automated the migration of 16 distributed applications and 2 databases to AWS cloud using IBM uDeploy and ITEC Jenkins in the Asset Management and Technology business unit.
 - Designed, developed and supported 4 cloud-ready highly resilient and highly decoupled applications to shift critical NAV processing and delivery from existing mainframe to Java based distributed systems in the Funds and Investment Operations business unit.
 
-**EDUCATION**
+### **EDUCATION**
 
 **Bachelor of Technology, Electrical and Electronics Engineering** 
 **National Institute of Technology, Trichy** 
@@ -33,8 +33,8 @@ Technical writer with a goal of simplifying technology communication for everybo
 - Head, Content for Pragyan 2017 - NIT Trichy&#39;s Techno-managerial Organization and Head, Content for Festember 2016 - NIT Trichy&#39;s Cultural Fest.
 - Pioneered the cross-year content development strategy for Pragyan and Festember and piloted and successfully shipped the publication **Pragyan Blog** on Medium with over 30,000 independent reads till date.
 
-**SKILLS AND INTERESTS**
+### **SKILLS AND INTERESTS**
 - **Certifications:** AWS Solutions Architect Associate (Credential ID: EQ281MZCPNVE1B3T)
-- **Key Skills:** Technical Writing; Agile Program Management; Content Development; Amazon Web Services; Software Development.
-- **Technical Skills:** Agile SDLC; Amazon Web Services; Microsoft Office; XML; HTML/CSS; REST Webservices; Angular; Java; PL/SQL; Linux; IBM uDeploy; ITEC Jenkins; Android; WordPress; Confluence; JIRA.
+- **Key Skills:** Technical Writing; Product Documentation, Agile Program Management; Content Development; Amazon Web Services; Software Development.
+- **Technical Skills:** Agile SDLC; Amazon Web Services; Microsoft Office; XML; HTML/CSS; REST Webservices; Angular; Java; PL/SQL; Linux; IBM uDeploy; ITEC Jenkins; Android; WordPress; Confluence; JIRA; ReadMe; Github; Clickup.
 - **Interests:** PC Gaming; Photography; Science Fiction.
