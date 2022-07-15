@@ -1,3 +1,7 @@
+---
+title: Resume
+---
+
 # **Anurag Jayaraman**
 
 hireanuragj@gmail.com • +91-7373546953 • linkedin.com/in/anurag-jayaraman/
