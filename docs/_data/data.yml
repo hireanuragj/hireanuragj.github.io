@@ -40,6 +40,8 @@ skills:
       - Linux
       - XML 
       - HTML/CSS
+      - Markdown
+      - Jekyll
       - WordPress 
       - Confluence 
       - JIRA 
@@ -126,5 +128,12 @@ volunteering:
     role: Head, Content 
     company: Pragyan
     details: |
-       Pioneered the cross-year content development strategy for Pragyan and Festember and piloted and 
-       successfully shipped the publication **Pragyan Blog** on Medium with over 30,000 independent reads till date.
+       • Pioneered the cross-year content development strategy for Pragyan 2017 
+       • piloted and successfully shipped the publication **Pragyan Blog** on Medium 
+       with over 30,000 independent reads till date.
+
+ - time: 2015-2016
+    role: Head, Content 
+    company: Festember
+    details: |
+       Managed a team of 33 content writers and editors for the academic year 2015-2016 for Festember 2016.
