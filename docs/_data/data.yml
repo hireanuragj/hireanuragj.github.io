@@ -24,7 +24,8 @@ education:
 skills:
   - category: Certifications
     skill: 
-      - AWS Solutions Architect Associate (Credential ID: EQ281MZCPNVE1B3T)
+      - Amazon Web Services 
+        Solutions Architect Associate
   - category: Key Skills
     skill:
       - Technical Writing
@@ -58,9 +59,9 @@ experience:
     time: May 2022-Current
     company: Facets.Cloud
     details: |
-      Develop, edit and publish product documentation, API reference documentation, feature guides, 
+      • Develop, edit and publish product documentation, API reference documentation, feature guides, 
       tutorials, and release notes in an agile ecosystem for a B2B DevOps Platform as a Service (PaaS) on ReadMe. 
-      Coordinate internal technical deliverables by working with backend, frontend and infrastructure teams 
+      • Coordinate internal technical deliverables by working with backend, frontend and infrastructure teams 
       to estimate scope, gather information, track releases, communicate progress with customers, and 
       mitigate knowledge gaps to produce and revise documentation that meets customer requirements.
 
@@ -71,10 +72,10 @@ experience:
     time: Sep 2021-May 2022
     company: Oracle Financial Services Software Ltd.
     details: |
-      Created and delivered product documentation including installation guides, user guides, 
-      technical guides and release notes by directly collaborating with product managers, 
-      software developers, quality assurance analysts, and support representatives for 
-      Financial Crime and Compliance team.
+      • Created and delivered product documentation including installation guides, user guides, 
+      technical guides and release notes for Compliance Studio Application. 
+      • Released versions 8.1.1.1 and 8.1.2 in collaboration with product managers, software developers, quality assurance analysts, 
+      and support representatives for Financial Crime and Compliance team.
    # technologies_used: | 
    #   Python, Tensorflow, Keras, Matlab
 
@@ -82,10 +83,9 @@ experience:
     time: Mar 2021-Sep 2021
     company: Applozic Inc.
     details: |
-      Created and deployed complete technical documentation including integration tutorials, 
-      installation guides, troubleshooting articles, as well as blog articles and DIY tutorials 
+      • Created and deployed complete technical documentation as well as blog articles and DIY tutorials 
       for a B2B Chat API and SDK product on ReadMe.
-      Implemented topic-based authoring on a WordPress Blog covering product APIs and SDKs in multiple ecosystems.
+      • Implemented topic-based authoring on a WordPress Blog covering product APIs and SDKs in multiple ecosystems.
 
   - role: Full Stack Developer
     time: July 2017-Mar 2021
