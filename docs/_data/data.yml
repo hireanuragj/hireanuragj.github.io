@@ -58,11 +58,11 @@ experience:
     time: May 2022-Current
     company: Facets.Cloud
     details: |
-    Develop, edit and publish product documentation, API reference documentation, feature guides, 
-    tutorials, and release notes in an agile ecosystem for a B2B DevOps Platform as a Service (PaaS) on ReadMe. 
-    Coordinate internal technical deliverables by working with backend, frontend and infrastructure teams 
-    to estimate scope, gather information, track releases, communicate progress with customers, and 
-    mitigate knowledge gaps to produce and revise documentation that meets customer requirements.
+      Develop, edit and publish product documentation, API reference documentation, feature guides, 
+      tutorials, and release notes in an agile ecosystem for a B2B DevOps Platform as a Service (PaaS) on ReadMe. 
+      Coordinate internal technical deliverables by working with backend, frontend and infrastructure teams 
+      to estimate scope, gather information, track releases, communicate progress with customers, and 
+      mitigate knowledge gaps to produce and revise documentation that meets customer requirements.
 
    # technologies_used: | 
    #   Go, Angular, Typescript, C++
@@ -82,20 +82,20 @@ experience:
     time: Mar 2021-Sep 2021
     company: Applozic Inc.
     details: |
-    Created and deployed complete technical documentation including integration tutorials, 
-    installation guides, troubleshooting articles, as well as blog articles and DIY tutorials 
-    for a B2B Chat API and SDK product on ReadMe.
-    Implemented topic-based authoring on a WordPress Blog covering product APIs and SDKs in multiple ecosystems.
+      Created and deployed complete technical documentation including integration tutorials, 
+      installation guides, troubleshooting articles, as well as blog articles and DIY tutorials 
+      for a B2B Chat API and SDK product on ReadMe.
+      Implemented topic-based authoring on a WordPress Blog covering product APIs and SDKs in multiple ecosystems.
 
   - role: Full Stack Developer
     time: July 2017-Mar 2021
     company: Fidelity Investments
     details: |
-    Automated the migration of 16 distributed applications and 2 databases to AWS cloud using 
-    IBM uDeploy and ITEC Jenkins in the Asset Management and Technology business unit.
-    Designed, developed and supported 4 cloud-ready highly resilient and highly decoupled applications 
-    to shift critical NAV processing and delivery from existing mainframe to Java based distributed systems 
-    in the Funds and Investment Operations business unit.
+      Automated the migration of 16 distributed applications and 2 databases to AWS cloud using 
+      IBM uDeploy and ITEC Jenkins in the Asset Management and Technology business unit.
+      Designed, developed and supported 4 cloud-ready highly resilient and highly decoupled applications 
+      to shift critical NAV processing and delivery from existing mainframe to Java based distributed systems 
+      in the Funds and Investment Operations business unit.
 
 #publications:
 #  - title: Random title of paper. An interesting one.
