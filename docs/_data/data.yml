@@ -25,7 +25,8 @@ skills:
   - category: Certifications
     skill: 
       - Amazon Web Services 
-       Solutions Architect Associate
+    skill:
+      - Solutions Architect Associate
   - category: Key Skills
     skill:
       - Technical Writing
