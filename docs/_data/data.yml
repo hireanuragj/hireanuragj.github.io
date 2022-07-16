@@ -1,108 +1,130 @@
-name: John Doe
+name: Anurag Jayaraman
 support_dark_mode: true
 fork: true
 
 # Sidebar
 contact:
-  email: info@johndoe.com
-  github: johndoe
-  linkedin: johndoe
-  phone: 
-  gitlab: 
-  twitter: 
+  email: hireanuragj@gmail.com
+  #github: johndoe
+  linkedin: linkedin.com/in/anurag-jayaraman/
+  phone: +91-7373546953
+  #gitlab: 
+  #twitter: 
 
 languages:
   - idiom: English
-  - idiom: Russian
-  - idiom: French
+  - idiom: Tamil
+  - idiom: Hindi
 
 education:
-  - degree: MSc in Informatics
-    time: 2014-2016
-    university: Ionian University
-
-  - degree: BSc in Computer Science
-    time: 2010-2014
-    university: Ionian University
+  - degree: Bachelor of Technology in Electrical and Electronics Engineering (B.Tech, EEE) 
+    time: 2013-2017
+    university: National Institute of Technology, Trichy
 
 skills:
-  - category: Backend
+  - category: Certifications
     skill: 
-      - Go
-      - Rust
-  - category: Frontend
+      - AWS Solutions Architect Associate (Credential ID: EQ281MZCPNVE1B3T)
+  - category: Key Skills
     skill:
-      - React
-      - Typescript
-  - category: DevOps
+      - Technical Writing
+      - Agile Program Management
+      - Content Development
+      - Amazon Web Services
+      - Software Development
+  - category: Technical Skills
     skill:
-      - Docker
-      - Kubernetes 
+      - REST Webservices 
+      - Java 
+      - Linux
+      - XML 
+      - HTML/CSS
+      - WordPress 
+      - Confluence 
+      - JIRA 
+      - Microsoft Office
+      - Google Suite 
 
 # Profile
 profile: |
-  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-  tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-  quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-  Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-  fugiat nulla pariatur.
+ Technical writer with a goal of simplifying technology communication for everybody. 
+ Diversified professional experience with a focus on agile led development in technical communication,
+ product documentation, software development, and cloud engineering backgrounds across cloud, fintech, 
+ and B2B organizations.
 
 # Experience
 experience:
-  - role: Software Engineer
-    time: 2020-Present
-    company: Google
+  - role: Senior Technical Writer
+    time: May 2022-Current
+    company: Facets.Cloud
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Go, Angular, Typescript, C++
+    • Develop, edit and publish product documentation, API reference documentation, feature guides, 
+    tutorials, and release notes in an agile ecosystem for a B2B DevOps Platform as a Service (PaaS) on ReadMe. 
+    • Coordinate internal technical deliverables by working with backend, frontend and infrastructure teams 
+    to estimate scope, gather information, track releases, communicate progress with customers, and 
+    mitigate knowledge gaps to produce and revise documentation that meets customer requirements.
+
+   # technologies_used: | 
+   #   Go, Angular, Typescript, C++
   
-  - role: Researcher
-    time: 2016-2020
-    company: Microsoft
+  - role: Technical Writer 2
+    time: Sep 2021-May 2022
+    company: Oracle Financial Services Software Ltd.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-      Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu 
-      fugiat nulla pariatur.
-    technologies_used: | 
-      Python, Tensorflow, Keras, Matlab
+      Created and delivered product documentation including installation guides, user guides, 
+      technical guides and release notes by directly collaborating with product managers, 
+      software developers, quality assurance analysts, and support representatives for 
+      Financial Crime and Compliance team.
+   # technologies_used: | 
+   #   Python, Tensorflow, Keras, Matlab
 
-publications:
-  - title: Random title of paper. An interesting one.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference, 2016
-
-  - title: Second title of paper. An interesting one too.
-    link: "#"
-    authors: John E. Doe
-    conference: Some conference again, 2018
-
-projects:
-  - title: Cool Project 
-    link: #
+  - role: Technical Writer
+    time: Mar 2021-Sep 2021
+    company: Applozic Inc.
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+    • Created and deployed complete technical documentation including integration tutorials, 
+    installation guides, troubleshooting articles, as well as blog articles and DIY tutorials 
+    for a B2B Chat API and SDK product on ReadMe.
+    • Implemented topic-based authoring on a WordPress Blog covering product APIs and SDKs in multiple ecosystems.
 
-  - title: Cool Project 
-    link: #
+  - role: Full Stack Developer
+    time: July 2017-Mar 2021
+    company: Fidelity Investments
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua.
+    • Automated the migration of 16 distributed applications and 2 databases to AWS cloud using 
+    IBM uDeploy and ITEC Jenkins in the Asset Management and Technology business unit.
+    • Designed, developed and supported 4 cloud-ready highly resilient and highly decoupled applications 
+    to shift critical NAV processing and delivery from existing mainframe to Java based distributed systems 
+    in the Funds and Investment Operations business unit.
+
+#publications:
+#  - title: Random title of paper. An interesting one.
+ #   link: "#"
+  #  authors: John E. Doe
+   # conference: Some conference, 2016
+
+#  - title: Second title of paper. An interesting one too.
+ #   link: "#"
+  #  authors: John E. Doe
+   # conference: Some conference again, 2018
+
+#projects:
+ # - title: Cool Project 
+  #  link: #
+   # details: |
+    #  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+     # tempor incididunt ut labore et dolore magna aliqua.
+
+#  - title: Cool Project 
+ #   link: #
+  ##   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
+    #  tempor incididunt ut labore et dolore magna aliqua.
 
 # Volunteering
 volunteering:
-  - time: 2020-Present
-    role: PR Manager
-    company: Some random organization
+  - time: 2016-2017
+    role: Head, Content 
+    company: Pragyan
     details: |
-      Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod 
-      tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-      quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
+       Pioneered the cross-year content development strategy for Pragyan and Festember and piloted and 
+       successfully shipped the publication **Pragyan Blog** on Medium with over 30,000 independent reads till date.
