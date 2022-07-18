@@ -6,7 +6,8 @@ GEM
     colorator (1.1.0)
     cssminify2 (2.0.1)
     execjs (2.8.1)
-    ffi (1.15.5-x64-mingw-ucrt)
+    ffi (1.15.5-x64-mingw32)
+    ffi (1.15.5-x64-unknown)
     forwardable-extended (2.6.0)
     htmlcompressor (0.4.0)
     jekyll (3.5.2)
@@ -59,10 +60,10 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  x64-mingw-ucrt
+  x64-mingw32
+  x64-unknown
 
 DEPENDENCIES
-  jekyll (= 3.5.2)
   jekyll-minifier (= 0.1.10)
   rexml
   wdm (>= 0.1.0)
